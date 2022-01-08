@@ -1,0 +1,6 @@
+cloud:
+  aws:
+    s3:
+      bucket: articleimages0108
+    region:
+      static: ap-northeast-2
